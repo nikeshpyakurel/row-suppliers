@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "rowsupplier",
+            "cwd": "rowsupplier",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "rowsupplier (profile mode)",
+            "cwd": "rowsupplier",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "rowsupplier (release mode)",
+            "cwd": "rowsupplier",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
